@@ -1,0 +1,11 @@
+Halo, Edward Wijaya disini.
+terimakasih sudah membaca catatan pengerjaan ini.
+
+saya hanya ingin menyampaikan bahwa maaf mungkin dalam projek tsb terdapat beberapa kekurangan
+hal tsb dikarenakan saya sendiri belum expert dan terbiasa menggunakan laravel beserta api-api nya.
+
+tetapi secara keseluruhan projek yang telah saya buat ini logikanya telah masuk dan 
+hanya perlu sedikit pembenahan.
+
+Terimakasih,
+Edward Wijaya
